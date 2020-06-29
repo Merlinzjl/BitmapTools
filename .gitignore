@@ -3,3 +3,16 @@
 ################################################################################
 
 /SplitBitmap/x64/Debug
+/SplitBitmap/.vs/SplitBitmap/v15
+/SplitBitmap/x64/Release/SplitBitmap.tlog
+*.log
+/SplitBitmap/x64/Release/ZJLBitmap.obj
+/SplitBitmap/x64/Release/vc141.pdb
+/SplitBitmap/x64/Release/stdafx.obj
+/SplitBitmap/x64/Release/SplitBitmapDlg.obj
+/SplitBitmap/x64/Release/SplitBitmap.res
+/SplitBitmap/x64/Release/SplitBitmap.pdb
+/SplitBitmap/x64/Release/SplitBitmap.pch
+/SplitBitmap/x64/Release/SplitBitmap.obj
+/SplitBitmap/x64/Release/SplitBitmap.ipdb
+/SplitBitmap/x64/Release/SplitBitmap.iobj
