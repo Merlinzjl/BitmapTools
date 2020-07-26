@@ -60,7 +60,7 @@ bool ZJLBitmap::InitBitmap(CString & bitmapFilePath)
 		m_pPalette = new RGBQUAD[1 << m_bitmapInfoHeader.biBitCount];
 		for (int i = 0; i < size; ++i)
 		{
-			istream.read((char*)&m_pPalette[i], sizeof(RGBQUAD));
+			istream.read((char*)&m_pPalette[i], sizeof(RGBQUAD));//ARGB,a =0时表示全透明， a=ff表示不透明
 		}
 	}
 
